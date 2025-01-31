@@ -1,3 +1,2 @@
-*.c linguist-vendored
-*.efi linguist-vendored
-*.plist linguist-vendored
+BOOT/* linguist-vendored
+OC/* linguist-vendored
